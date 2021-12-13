@@ -3,7 +3,7 @@ h1 {
   text-align: center;
 }
 
-p {
+/* p {
   font-family: monospace;
   font-style: italic;
   font-weight: bold;
@@ -15,4 +15,8 @@ body {
 
 #two {
   font-size: 1.0em;
+} */
+
+p {
+  font-family: 'Corinthia', cursive;
 }
