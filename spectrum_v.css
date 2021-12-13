@@ -1,0 +1,36 @@
+h3 {
+  text-align: center;
+  font-family: 'Corinthia', cursive;
+  font-family: 'Smooch', cursive;
+  font-size: 30px;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+td {
+  width: 200px;
+  height: 400px;
+  border: 6px solid white;
+}
+
+#first {
+  background-color: #a54657;
+}
+
+#second {
+  background-color: #582630;
+}
+
+#third {
+  background-color: #F7EE7F;
+}
+
+#fourth {
+  background-color: #F1A66A;
+}
+
+#fifth {
+  background-color: #F26157;
+}
